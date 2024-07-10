@@ -63,7 +63,7 @@ Ensure you have the following installed:
 - Python 3.8 or higher
 - Required Python libraries:
   ```sh
-  pip install aiohttp websockets numpy psutil tensorflow scikit-learn
+  pip3 install aiohttp websockets numpy psutil tensorflow scikit-learn
   ```
 
 ## Setup
