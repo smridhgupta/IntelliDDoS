@@ -1,6 +1,6 @@
 # IntelliDDoS - AI-based DDoS Framework
 
-IntelliDDoS is an advanced AI-based framework for simulating and executing Distributed Denial of Service (DDoS) attacks. This powerful tool utilizes machine learning and reinforcement learning techniques to dynamically optimize attack strategies, making it one of the most robust and effective DDoS simulation frameworks available.
+IntelliDDoS is an advanced AI-based framework for simulating and executing Distributed Denial of Service (DDoS) attacks. This powerful tool utilizes neural networks and reinforcement learning techniques to dynamically optimize attack strategies, making it one of the most robust and effective DDoS simulation frameworks available.
 
 ## Features
 
