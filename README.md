@@ -60,7 +60,7 @@ When comparing IntelliDDoS to well-known DDoS frameworks or tools (like LOIC, HO
 
 Ensure you have the following installed:
 
-- Python 3.8 or higher
+- Python 3.11
 - Required Python libraries:
   ```sh
   pip3 install aiohttp websockets numpy psutil tensorflow scikit-learn pycryptodome
@@ -74,16 +74,11 @@ Ensure you have the following installed:
    cd IntelliDDoS
    ```
 
-2. **Run the script**:
-   ```sh
-   python3 IntelliDDoS.py
-   ```
-
 ## Usage
 
 1. **Start the script**:
    ```sh
-   python3 IntelliDDoS.py
+   python3.11 IntelliDDoS.py
    ```
 
 2. **Enter the target URL**:
