@@ -97,9 +97,9 @@ Ensure you have the following installed:
 
 The framework evaluates performance based on success rates, error rates, and connection reset errors. It dynamically adjusts attack parameters using a Q-learning-based reinforcement learning algorithm.
 
-## Donate
+# Donate
 
-. BTC: bc1qykzfyjdkyck5v4sd46j4y8ra6mgltvu6zqu69s
+. XMR: 87SARF3f1LWLMec8mEBDcuiPUPYzyBz3CDcZSLas23hCCEvmcQDh36mhQ2QK22PbYTNMoozXFzsSTFz7nbZNsVUD3pmMNWd
 
 ## Disclaimer
 
