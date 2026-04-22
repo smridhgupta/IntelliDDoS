@@ -63,7 +63,7 @@ Ensure you have the following installed:
 - Python 3.11
 - Required Python libraries:
   ```sh
-  pip3 install aiohttp websockets numpy psutil tensorflow scikit-learn pycryptodome
+  pip3 install aiohttp websockets numpy psutil tensorflow scikit-learn pycryptodome brotli
   ```
 
 ## Setup
